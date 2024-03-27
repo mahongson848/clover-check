@@ -1,1 +1,4 @@
-# clover-check
+## Installation
+```bash
+npm clover-check
+```
